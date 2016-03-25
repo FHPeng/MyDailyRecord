@@ -69,3 +69,6 @@
 
 首次使用前需修改密码：````SET PASSWORD = PASSWORD('123456');````
 查看mysql字符集 ```show variables like 'char%';```
+
+# 4. android源码下载
+[android源码下载](https://source.android.com/source/downloading.html)
