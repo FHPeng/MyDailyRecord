@@ -18,7 +18,8 @@
 * [logj的配置](https://logging.apache.org/log4j/2.x/manual/configuration.html)
   * 配置中的pattern
   ![](/Image/log4j-pattern.png)
-# 2. Maven相关
+
+##  2. Maven相关
 * 1. 创建Maven下的Java控制台输出程序的
 * 2. 创建Maven下的Scala控制台输出程序
 > 第一步：创建空的maven项目
