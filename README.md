@@ -57,7 +57,7 @@
            </plugins>
        </build>
 ```
-### 3. Mysql相关
+# 3. Mysql相关
 可更改my-default.imi文件 或者复制一个更改里面的内容后放到bin目录下，
 如果出现```Fatal error: Can't open and lock privilege tables: Table 'mysql.user' doesn't exist``` 错误：
 先删除datadir中的文件
