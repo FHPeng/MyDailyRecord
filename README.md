@@ -72,3 +72,6 @@
 
 # 4. android源码下载
 [android源码下载](https://source.android.com/source/downloading.html)
+
+#5. Ubuntu相关
+![](/Image/ubuntu常用快捷键.png)
