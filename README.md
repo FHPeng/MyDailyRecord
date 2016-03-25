@@ -73,5 +73,7 @@
 # 4. android源码下载
 [android源码下载](https://source.android.com/source/downloading.html)
 
-#5. Ubuntu相关
+# 5. Ubuntu相关
 ![](/Image/ubuntu常用快捷键.png)
+# 6. IDEA注册地址
+[IDEA注册地址](http://idea.lanyus.com/)
