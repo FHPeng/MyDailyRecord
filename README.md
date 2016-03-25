@@ -1,6 +1,6 @@
 # MyDailyRecord
 # 1. log4j 2
-*[log4j的引入](https://logging.apache.org/log4j/2.x/maven-artifacts.html)    
+* [log4j的引入](https://logging.apache.org/log4j/2.x/maven-artifacts.html)    
 ```<dependencies>
   <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -14,4 +14,4 @@
   </dependency>
 </dependencies>
 ```
-*[logj的配置](https://logging.apache.org/log4j/2.x/manual/configuration.html)  
+* [logj的配置](https://logging.apache.org/log4j/2.x/manual/configuration.html)  
