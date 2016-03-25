@@ -15,5 +15,6 @@
   </dependency>
 </dependencies>
 ```
-* [logj的配置](https://logging.apache.org/log4j/2.x/manual/configuration.html)  
-  * 配置中的pattern 
+* [logj的配置](https://logging.apache.org/log4j/2.x/manual/configuration.html)
+  * 配置中的pattern
+  ![](/Image/log4j-pattern.png)
