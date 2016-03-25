@@ -14,7 +14,4 @@
   </dependency>
 </dependencies>
 ```
-
-
-
-[我的博客](https://logging.apache.org/log4j/2.x/manual/configuration.html)  
+[logj的配置](https://logging.apache.org/log4j/2.x/manual/configuration.html)  
