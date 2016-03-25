@@ -1,7 +1,7 @@
 # MyDailyRecord
 # 1. log4j 2
 [log4j的引入](https://logging.apache.org/log4j/2.x/maven-artifacts.html)    
-<dependencies>
+` ``<dependencies>
   <dependency>
     <groupId>org.apache.logging.log4j</groupId>
     <artifactId>log4j-api</artifactId>
@@ -13,7 +13,7 @@
     <version>2.5</version>
   </dependency>
 </dependencies>
-
+` ``
 
 
 
