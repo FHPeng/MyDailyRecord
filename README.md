@@ -59,13 +59,13 @@
 ```
 ### 3. Mysql相关
 可更改my-default.imi文件 或者复制一个更改里面的内容后放到bin目录下，
-如果出现Fatal error: Can't open and lock privilege tables: Table 'mysql.user' doesn't exist 错误：
+如果出现```Fatal error: Can't open and lock privilege tables: Table 'mysql.user' doesn't exist``` 错误：
 先删除datadir中的文件
-执行mysqld --initialize --user=mysql --console 即可。
+执行``mysqld --initialize --user=mysql --console``` 即可。
 
 如果出现登陆失败，请查看服务是否启动
-如未启动：请mysqld-nt -install（安装服务） （mysqld-nt -remove ）
-启动服务：net start mysql
+如未启动：请```mysqld-nt -install```（安装服务） （mysqld-nt -remove ）
+启动服务：```net start mysql```
 
-首次使用前需修改密码：SET PASSWORD = PASSWORD('123456');
+首次使用前需修改密码：````SET PASSWORD = PASSWORD('123456');````
 查看mysql字符集 ```show variables like 'char%';```
