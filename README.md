@@ -77,3 +77,18 @@
 ![](/Image/ubuntu常用快捷键.png)
 # 6. IDEA注册地址
 [IDEA注册地址](http://idea.lanyus.com/)
+
+# 7. jProfiler
+JProfiler是一个商业授权的Java剖析工具，由EJ技术有限公司，针对Java EE和Java SE应用程序开发的。
+它允许两个内存剖面评估内存使用情况和动态分配泄漏和CPU剖析，以评估线程冲突。
+JProfiler直觉式的GUI让你可以找到性能瓶颈、抓出内存漏失(memory leaks)、并解决执行绪的问题。[from 百度百科]
+简而言之，它能通过评估CPU、内存以及线程来避免内存漏失，是一个性能监测工具。
+
+[jProfiler主页](http://www.ej-technologies.com/index.html)
+
+L-Larry_Lau@163.com#36573-fdkscp15axjj6#25257
+L-Larry_Lau@163.com#7009-14frku31ynzpfr#20176
+L-Larry_Lau@163.com#49604-1jfe58we9gyb6#5814
+L-Larry_Lau@163.com#25531-1qcev4yintqkj#23927
+L-Larry_Lau@163.com#96496-1qsu1lb1jz7g8w#23479
+L-Larry_Lau@163.com#20948-11amlvg181cw0p#171159
