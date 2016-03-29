@@ -92,3 +92,5 @@ L-Larry_Lau@163.com#49604-1jfe58we9gyb6#5814
 L-Larry_Lau@163.com#25531-1qcev4yintqkj#23927
 L-Larry_Lau@163.com#96496-1qsu1lb1jz7g8w#23479
 L-Larry_Lau@163.com#20948-11amlvg181cw0p#171159
+* jProfiler配合IDEA
+  先安装jProfiler，再在idea插件中下载jProfiler。
